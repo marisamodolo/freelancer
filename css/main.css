@@ -9,7 +9,7 @@ body{
     display: inline-block;
     width: 100%;
     position: relative;
-    padding: 2% 0%;
+    padding: 1.4% 0%;
     margin:0;
 }
 
@@ -30,4 +30,24 @@ body{
 header a{
     text-decoration: none;
     color: white;
+}
+
+section{
+    background-color: #18bc9c;
+    padding-top: 10%;
+    padding-bottom: 25.3%; 
+    position: relative;
+}
+
+section p:first-child{
+    position: absolute;
+    color: white;
+
+}
+
+.profileimg{
+    position: absolute;
+    left: 43.3%;
+    top: 12.8%;
+
 }
