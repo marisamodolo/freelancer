@@ -32,22 +32,86 @@ header a{
     color: white;
 }
 
-section{
+.profile_section{
     background-color: #18bc9c;
-    padding-top: 10%;
-    padding-bottom: 25.3%; 
+    padding-top: 5%;
+    padding-bottom: 4%; 
     position: relative;
-}
-
-section p:first-child{
-    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 25%;
+    padding-right: 40%;
+    text-align: center;
+    width: 50%;
+    font-family: Montserrat;
     color: white;
-
 }
 
-.profileimg{
-    position: absolute;
-    left: 43.3%;
-    top: 12.8%;
+.fontTittle{
+    margin-top: 1rem;
+    margin-bottom: 0%;
+    font-size: 4.75em;
+    font-weight: 900;
+}
 
+.star:after{
+    background-color: #18bc9c;
+    position: -.8em;
+    top: -.8em;
+    display: inline-block;
+    padding: 0.25em;
+    content: '\f005';
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    font-size: 2em;
+    color: #fff;
+}
+
+.font-light{
+    font-size: 1.75rem;
+    font-family: Lato;
+    font-weight: 300;
+}
+.portfolio_section{
+    background-color: rgb(136, 133, 133);
+    padding-top: 5%;
+    padding-bottom: 5%; 
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 25%;
+    padding-right: 40%;
+    text-align: center;
+    width: 50%;
+    font-weight: 700;
+    font-family: Montserrat;
+    color: #2c3e50;
+}
+
+.about-section{
+    background-color: #18bc9c;
+    padding-top: 5%;
+    padding-bottom: 5%; 
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 25%;
+    padding-right: 40%;
+    text-align: center;
+    width: 50%;
+    font-weight: 700;
+    font-family: Montserrat;
+    color: #2c3e50;
+}
+
+.paragrafo1{
+    text-align: left;
+    font-family: Lato;
+    font-weight: 100;
+    line-height: 2rem;
+    width: 36%;
+    font-size: 1.2rem;
+    color: aliceblue;
+    display: inline-flex;
+    padding-right: 3%;
 }
