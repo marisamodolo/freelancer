@@ -1,6 +1,6 @@
 # Freelancer
 
-# Introdução:
+## Introdução:
 O projeto consiste em replicar com HTML e CSS o site freelancer. 
 
 ## Objetivo:
@@ -21,14 +21,14 @@ https://marisamodolo.github.io/freelancer/
 * Correta nomenclatura de classes.
 * Identação.
 
-# Conteúdo
+## Conteúdo
 
 * Read-me
 * Arquivo base `index.html` contendo a estrutura do projeto.
 * Dentro da pasta `css` contém o arquivo `main.css` com os estilos utilizados.
 * Pasta `assets` com imagens necessárias para a conclusão do projeto.
 
-# Conclusão
+## Conclusão
 * Revisão de tags do HTML.
 * Aprendizado de CSS, com conteúdo sobre flex-box e reutilização de classes.
 * Aprendizado de pseudo-elementos, `::after` e `::before`, neste projeto utilizado para a criação da estrela.
