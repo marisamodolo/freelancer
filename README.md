@@ -32,3 +32,4 @@ https://marisamodolo.github.io/freelancer/
 * Revisão de tags do HTML.
 * Aprendizado de CSS, com conteúdo sobre flex-box e reutilização de classes.
 * Aprendizado de pseudo-elementos, `::after` e `::before`, neste projeto utilizado para a criação da estrela.
+* O site funciona de forma mais adequada no navegador Firefox.
