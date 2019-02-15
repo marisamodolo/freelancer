@@ -49,6 +49,9 @@ padding-bottom: 2rem;
   flex-direction: row;
   padding: 0% 10% 0% 25%;
 }
+.navbar a:hover{
+color:#18bc9c;
+}
 .navbar li{
   padding: 0% 10%;
 }
@@ -150,7 +153,7 @@ hr.star-light, hr.star-dark{
   border: 2px solid #ffffff;
   margin-bottom: 6vw;
 }
-.btn-about:hover{
+.btn-about:hover, .btn-ftr:hover{
   background-color: #ffffff;
   color: #2c3e50;
   transition: color .15s ease-in-out,background-color .15s ease-in-out;
@@ -180,6 +183,10 @@ hr.star-light, hr.star-dark{
   border: none;
   border-radius: .25rem;
   margin-bottom: 6rem;
+}
+.btnfrm:hover{
+  background-color: #13725f;
+  transition: background-color .15s ease-in-out;;
 }
 .ftr{
   display: inline-flex;
@@ -212,7 +219,6 @@ hr.star-light, hr.star-dark{
   margin: 0.5rem 0.2rem 0.5rem 0.2rem;
   font-family: "Font Awesome 5 Brands";;
   font-size: 1.25rem;
-  color: white;
 }
 .fb::before{
   margin: 1rem 0.5rem 1rem 0.5rem;
