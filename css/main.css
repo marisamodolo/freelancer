@@ -47,7 +47,6 @@ padding-bottom: 2rem;
   align-items: center;
   width: 92.1vw;
   flex-direction: row;
-  align-content: space-between;
   padding: 2rem 3rem 2rem 3rem;
   font-weight: 700;
     /*font-weight: 700;
@@ -175,7 +174,7 @@ hr.star-light, hr.star-dark{
   color: #ffffff;
   border-radius: 0.25rem;
   border: 2px solid #ffffff;
-  margin-bottom: 5vw;
+  margin-bottom: 6vw;
 }
 
 .btn-about:hover{
